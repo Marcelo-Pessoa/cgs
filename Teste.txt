@@ -1,1 +1,3 @@
 Esse é o arquivo de teste.
+
+NÃO COLOQUE SEUS TESTES AQUI! Apenas os meus.
